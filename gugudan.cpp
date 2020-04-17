@@ -1,11 +1,11 @@
-#include<iostream>
+ï»¿#include<iostream>
 using namespace std;
 
 int main(){
 	int num;
 	cout << "Enter the number: ";
 	cin >>num;
-	for(int i = 1;i <= 9;i++){ //µîÈ£ ¿À·ù ¼öÁ¤
+	for(int i = 1;i <= 9;i++){ //ë“±í˜¸ ì˜¤ë¥˜ ìˆ˜ì •
 		cout << num<<" * "<<i<<" = "<<num*i
 	}
 
